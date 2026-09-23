@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix GeoVoxel 3D - Unified 3D-ULPIN \u0026 Vertical Property Mapping System",
+  "description": "Prototype for modern 3D cadastral and vertical property mapping representing Land Parcel -\u003e Building -\u003e Floor -\u003e Individual Unit with 3D-ULPIN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
